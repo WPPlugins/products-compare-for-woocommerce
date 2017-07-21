@@ -1,0 +1,13 @@
+<wpml-config>  
+    <admin-texts>
+        <key name="br_compare_products_text_settings">
+            <key name="compare" />
+            <key name="add_compare" />
+            <key name="added_compare" />
+            <key name="toolbar" />
+            <key name="attribute" />
+            <key name="custom" />
+            <key name="availability" />
+        </key>
+    </admin-texts> 
+</wpml-config>
